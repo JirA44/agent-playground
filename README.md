@@ -6,6 +6,20 @@
 TaskFlow is a full-stack task management SaaS monorepo built 
 with a modern TypeScript-first architecture.
 
+## Présentation en français
+
+TaskFlow est un monorepo d’application de gestion des tâches avec interface Next.js, API Express, base Prisma et composants partagés.
+
+### À quoi ça sert, et pourquoi ?
+
+Il fournit un exemple d’application complète avec tableaux de tâches, profils, propositions, messagerie, notifications et administration.
+
+### Exemple
+
+Parcourir les tableaux côté web, examiner les routes d’API et suivre le schéma Prisma pour comprendre comment l’interface et la base sont reliées.
+
+Les paiements sont décrits comme un service placeholder ; ne pas les traiter comme opérationnels sans vérification.
+
 ## Workspace Structure
 
 - `apps/web` — Next.js 14 App Router frontend
